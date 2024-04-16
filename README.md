@@ -6,4 +6,4 @@
 * Juan Pablo Peñaloza
 * Lautaro Marcelo Rivadero Aquino
 
-![image](https://github.com/juanpp97/proyecto-django/DER_administracion.png)
+![image](https://github.com/Gabriel071185/Django_Suites_Hotel/blob/main/static/img/logodjangosh.png)
